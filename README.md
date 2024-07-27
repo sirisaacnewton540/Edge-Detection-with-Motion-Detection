@@ -1,8 +1,16 @@
-# Edge Detection and Motion Imaging using Contouring Techniques
+# Motion Imaging and Motion Edge Detection
 
 ## Overview
 
 This project implements a real-time edge detection and motion imaging system using contouring techniques. The system captures video from a webcam, processes the frames to detect edges of motion, and displays the results interactively. The project leverages OpenCV for computer vision tasks and provides an interactive interface for threshold adjustment in edge detection.
+
+## Results
+### Motion Imaging
+![GIFMaker_me (1)](https://github.com/user-attachments/assets/8addeedc-4e43-46e0-af0e-7e7b079a15ad)
+
+## Motion Edge Detection
+![GIFMaker_edge](https://github.com/user-attachments/assets/9f3c1c5e-c2fd-457b-a4f8-530ba298cdc9)
+
 
 ## Features
 
