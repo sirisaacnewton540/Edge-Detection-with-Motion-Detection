@@ -8,7 +8,7 @@ This project implements a real-time edge detection and motion imaging system usi
 ### Motion Imaging
 ![GIFMaker_me (1)](https://github.com/user-attachments/assets/8addeedc-4e43-46e0-af0e-7e7b079a15ad)
 
-## Motion Edge Detection
+### Motion Edge Detection
 ![GIFMaker_edge](https://github.com/user-attachments/assets/9f3c1c5e-c2fd-457b-a4f8-530ba298cdc9)
 
 
